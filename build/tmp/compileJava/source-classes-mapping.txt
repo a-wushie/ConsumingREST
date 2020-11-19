@@ -1,0 +1,6 @@
+com/adaidam/ConsumingREST/Results.java
+ com.adaidam.ConsumingREST.Results
+com/adaidam/ConsumingREST/Book.java
+ com.adaidam.ConsumingREST.Book
+com/adaidam/ConsumingREST/ConsumingRestApplication.java
+ com.adaidam.ConsumingREST.ConsumingRestApplication
